@@ -48,7 +48,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/截屏2025-09-08 21.44.59.png" alt=""><figcaption></figcaption></figure>
 
-提交 KYC 後，您可返回「卡片」頁面並點選「申請記錄」查看進度，若審核通過，卡片預計約 20 天後發行；如被拒，請重新提交 KYC 資料。
+提交 KYC 後，您可返回「卡片」頁面並點選「申請記錄」查看進度，若審核通過，卡片預計約 20 个工作日發行；如被拒，請重新提交 KYC 資料。
 
 <figure><img src="../.gitbook/assets/截屏2025-09-08 21.48.30.png" alt=""><figcaption></figcaption></figure>
 
