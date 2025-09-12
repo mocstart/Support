@@ -49,7 +49,7 @@ Before submitting KYC, you need to enter the authorization code. The system will
 
 <figure><img src="../.gitbook/assets/截屏2025-09-08 21.44.59.png" alt=""><figcaption></figcaption></figure>
 
-After submitted the KYC, users can return to the 'Card' page and click ‘Application History’ to check the status. Once approved, the card is expected to be issued in approximately 20 days. If rejected, users need to re-submit the KYC info.
+After submitted the KYC, users can return to the 'Card' page and click ‘Application History’ to check the status. Once approved, the card is expected to be issued in approximately 20 working days. If rejected, users need to re-submit the KYC info.
 
 <figure><img src="../.gitbook/assets/截屏2025-09-08 21.48.30.png" alt=""><figcaption></figcaption></figure>
 
