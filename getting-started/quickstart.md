@@ -40,7 +40,7 @@ Click the button to visit the page&#x20;
 
 Select either a physical or virtual card for payment. Currently, only the physical card is supported, and each user is limited to buy one card. Before confirming the order, you can view the 'invitation code'. Confirm the code before proceeding with the order.
 
-<figure><img src="../.gitbook/assets/截屏2025-09-08 20.26.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/截屏2025-10-08 13.55.56.png" alt=""><figcaption></figcaption></figure>
 
 Copy card activation address and the authorization code to register
 

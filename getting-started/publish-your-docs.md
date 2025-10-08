@@ -18,13 +18,11 @@ layout:
 
 # Activate the physical card
 
-[Register Upay app](https://h5.unboundleess.com/pages/share/index?code=8RWC90)
+[Login Upay app](https://h5.unboundleess.com/pages/login/index)
 
-Enter your email and set an email password. Complete the registration by verifying the code sent to your email. And the download the android version or open in the webpage.
+Enter your email and the original password sent to your email.  And the download the android version or open in the webpage.
 
-<figure><img src="../.gitbook/assets/截屏2025-09-08 20.46.56.png" alt=""><figcaption></figcaption></figure>
-
-<div><figure><img src="../.gitbook/assets/截屏2025-09-08 20.53.10.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/截屏2025-09-08 20.51.50.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/截屏2025-09-08 20.53.10.png" alt=""><figcaption></figcaption></figure>
 
 Provide the KYC to activate the card\
 After logging into the app, select ‘Card’ → ‘Apply Now’ → ‘Physical Card’, and then fill out the form.&#x20;
